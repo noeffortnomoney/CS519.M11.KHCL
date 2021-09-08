@@ -1,4 +1,4 @@
-<h1 align="center"><b>CS519.M11.KHCL - Phương pháp luận nghiên cứu khoa học</b></h1>
+<h1 align="center"><b>CS519.M11.KHCL - Scientific research methodology</b></h1>
 
 ## Giới thiệu
 * Tên môn học: PHƯƠNG PHÁP LUẬN NGHIÊN CỨU KHOA HỌC - Scientific research methodology
