@@ -1,3 +1,5 @@
+<p align="center">
+  <a href="https://www.uit.edu.vn/"><img src="https://www.uit.edu.vn/sites/vi/files/banner.png"></a>
 <h1 align="center"><b>CS519.M11.KHCL - Scientific research methodology</b></h1>
 
 ## Giới thiệu
