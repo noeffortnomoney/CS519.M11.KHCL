@@ -10,7 +10,7 @@
 ### Giảng viên
 * PGS.TS Lê Đình Duy - duyld@uit.edu.vn
 
-### Thành viên nhóm 12
+### Thành viên nhóm BHĐ
 
 | STT | Họ tên | MSSV | Email | Github |
 | :---: | --- | --- | --- | --- |
